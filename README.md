@@ -43,15 +43,7 @@ Possuo experiência prévia no ambiente corporativo, na qual desenvolvi habilida
 - Resolução de problemas
 - Proatividade
 
-## 5. Estrutura do Repositório
-
-```
-├── README.md
-├── /atividades
-└── /docs
-```
-
-## 6. Contato
+## 5. Contato
 
 - **LinkedIn:** [linkedin.com/in/renan-lima-9597b1200](https://www.linkedin.com/in/renan-lima-9597b1200)
 - **GitHub:** [@SnyQ285](https://github.com/SnyQ285)
@@ -59,5 +51,5 @@ Possuo experiência prévia no ambiente corporativo, na qual desenvolvi habilida
 
 ---
 
-*Última atualização: [mês/ano]*
+*Última atualização: [Out/2026]*
 
